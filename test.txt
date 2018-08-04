@@ -1,0 +1,10 @@
+ Volume in drive C is LT1040G2C
+ Volume Serial Number is 9E26-BCD1
+
+ Directory of C:\Users\Gov\Documents\GitProject1
+
+04/08/2018  21:04    <DIR>          .
+04/08/2018  21:04    <DIR>          ..
+04/08/2018  21:04                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  38,956,568,576 bytes free
